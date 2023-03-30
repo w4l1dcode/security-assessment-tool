@@ -59,7 +59,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repository with the following command:
    ```console
-   git clone git@gitlab.com:kdg-ti/the-lab/teams-22-23/jwl/SAT.git
+   git clone https://github.com/walid-loutfi/security-assessment-tool.git
    ```
    
 2. Navigate to the project directory and run the file 'security_assessment_tool.py' via an IDE or by running:
