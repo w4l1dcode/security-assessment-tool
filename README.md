@@ -62,7 +62,7 @@ To get a local copy up and running follow these simple steps.
    git clone https://github.com/walid-loutfi/security-assessment-tool.git
    ```
    
-2. Navigate to the project directory and run the file 'security_assessment_tool.py' via an IDE or by running:
+2. Navigate to the project directory "security-assessment-tool" and run the file 'security_assessment_tool.py' via an IDE or by running:
    ```python
     python3 security_assessment_tool.py
    ```
