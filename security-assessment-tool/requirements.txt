@@ -1,4 +1,4 @@
-customtkinter~=5.1.2
+customtkinter~=5.2.2
 Pillow~=9.4.0
 python-nmap~=0.7.1
 cicflowmeter
