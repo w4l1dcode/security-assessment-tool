@@ -17,7 +17,7 @@ python-whois
 googlesearch-python
 tabulate~=0.9.0
 simplejson~=3.20.1
-tensorflow~=2.18.0
+tensorflow~=2.18.1
 future~=1.0.0
 xgboost~=2.1.4
 django-googlesearch~=0.2
