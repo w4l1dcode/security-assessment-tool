@@ -1,5 +1,5 @@
 customtkinter~=5.2.2
-Pillow~=11.1.0
+Pillow~=11.2.0
 python-nmap~=0.7.1
 cicflowmeter
 numpy~=2.2.3
