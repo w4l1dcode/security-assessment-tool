@@ -11,7 +11,7 @@ requests~=2.32.3
 charset_normalizer
 urllib3
 certifi
-joblib~=1.4.2
+joblib~=1.5.0
 beautifulsoup4~=4.13.4
 python-whois
 googlesearch-python
