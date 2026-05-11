@@ -3,8 +3,8 @@ Pillow~=11.3.0
 python-nmap~=0.7.1
 cicflowmeter
 numpy~=2.0.2
+matplotlib~=3.10.8
 pandas~=3.0.0
-matplotlib~=3.10.7
 keras~=3.11.3
 scikit-learn~=1.7.2
 requests~=2.32.5
