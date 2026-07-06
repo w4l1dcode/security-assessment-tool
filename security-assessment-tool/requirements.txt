@@ -2,7 +2,7 @@ customtkinter~=5.2.2
 Pillow~=12.2.0
 python-nmap~=0.7.1
 cicflowmeter
-numpy~=2.4.6
+numpy~=2.5.1
 pandas~=3.0.3
 keras~=3.14.1
 matplotlib~=3.10.9
