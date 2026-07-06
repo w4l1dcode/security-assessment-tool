@@ -12,7 +12,7 @@ charset_normalizer
 urllib3
 certifi
 joblib~=1.5.3
-beautifulsoup4~=4.14.3
+beautifulsoup4~=4.15.0
 python-whois
 googlesearch-python
 tabulate~=0.10.0
