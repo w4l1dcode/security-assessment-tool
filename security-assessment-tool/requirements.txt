@@ -5,7 +5,7 @@ cicflowmeter
 numpy~=2.4.6
 pandas~=3.0.3
 keras~=3.14.1
-matplotlib~=3.10.9
+matplotlib~=3.11.1
 scikit-learn~=1.9.0
 requests~=2.32.5
 charset_normalizer
